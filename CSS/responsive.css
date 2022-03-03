@@ -26,6 +26,7 @@
     }
     .v-class-resp{
         opacity: 0;
+        
     }
     .section{
         flex-direction: column-reverse;
@@ -42,4 +43,5 @@
     .paras{
         padding: 0px 1px;
     }
+    
 }
